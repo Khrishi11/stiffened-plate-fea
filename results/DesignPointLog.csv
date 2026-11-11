@@ -1,0 +1,22 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: Static structural
+# Creation date: 03/16/2023 16:48:13
+# 
+# 03/16/2023 16:48:13
+# The parameters defined in the project are:
+# ,P1 - Mesh Element Size [mm],P2 - Mesh Nodes,P3 - Mesh Elements,P4 - Total Deformation Maximum [mm],P5 - Equivalent Stress Maximum [MPa],P6 - Safety Factor Minimum
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4,P5,P6
+DP 0,20,7990,2609,8.7521430608322461,239.16492157441223,2.6132594859047567
+DP 1,15,14338,4707,8.75084612516719,239.39488062890138,2.6107492288811533
+DP 2,10,31640,10449,8.752006712410493,239.78360712536252,2.6065167985951625
+DP 3,7.5,55488,18355,8.7923557539365653,240.09857028546736,2.6030975497142719
+DP 4,5,124493,41304,8.7922165662567924,240.20050965769238,2.6019928137982804
+DP 5,4,190450,63235,8.792355706488971,240.22099387044352,2.6017709357121226
+DP 6,3,339772,112939,8.7923290553107609,240.2320479106132,2.60165121779486
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/23/2023 13:02:05
+# 
